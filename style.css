@@ -1,0 +1,163 @@
+
+.hamburger {
+    width: 20px;
+    height: 20px;
+    margin-top: 20px;
+}
+.jawa {
+    margin-top: -25px;
+    margin-left: 25px;
+}
+
+/* .aqua-section {
+    background-color: #25A59E;
+    color: white;
+} */A
+
+.image {
+    margin-bottom: -360px;
+}
+
+.turkey {
+    margin-top: -25px;
+    margin-left: 30px;
+}
+
+.pasuruan {
+    margin-top: -25px;
+    margin-left: 30px;
+}
+
+.indonesia {
+    margin-top: -25px;
+    margin-left: 30px;
+}
+
+.jawa {
+    margin-top: -25px;
+    margin-left: 30px;
+}
+
+.indonesia {
+    margin-top: -25px;
+    margin-left: 30px;
+}
+
+.turkey {
+    margin-top: -25px;
+    margin-left: 25px;
+}
+
+.pasuruan {
+    margin-top: -25px;
+    margin-left: 25px;
+}
+
+.jawa {
+    margin-top: -25px;
+    margin-left: 25px;
+}
+
+.jawa {
+    margin-top:  -25px;
+    margin-left:  25px;
+}
+
+.indonesia {
+    margin-top: -25px;
+    margin-left: 25px;
+}
+.fonts {
+    font-size: 35px;
+}
+.listtop {
+    width: 100%;
+    height: 4px;
+    background-color: #25A59E;
+}
+
+span{
+    color: #25A59E;
+    ;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: -50px;
+    justify-content: space-between;
+}
+.travel p{
+    font-family: "Gilda display";
+    font-size: 30px;
+    text-align: center;
+}
+.blurry{
+    width: 400px;
+    margin-left: -60px;
+}
+.ellipse{
+    width: 320px;
+    margin-left: -37px;
+    margin-top: -68px;
+    transform: translateY(-60%);
+}
+.people{
+    width: 350px;
+    margin-left: -50px;
+    margin-top: 10px;
+    transform: translateY(-151%)
+}
+
+.cards{
+}
+.carding {
+    display: flex;
+    flex-direction: column;
+    margin-left: -32px;
+}
+.img {
+    margin-left: -32px;
+}
+
+/* img{
+    rotate:360deg;
+} */
+
+.header-content  h2 {
+    margin-top: 150px;
+    color:aqua;
+    text-align:  center;
+    font-size: 2vmin;
+}
+
+.line {
+    width: 150px;
+    background:aqua;
+    margin: 10px auto;
+}
+
+/* why choose us */
+section {
+    width: 80%;
+    margin: 80px auto;
+}
+.row {
+display:flex;
+align-items: center;
+background: aqua
+}
+.row{
+    background:var(---colour)
+}
+
+.location {
+    display: flex;
+    gap: 10px;
+}
+
+
+
+
+@media (min-width: 1024px){
+
+}
